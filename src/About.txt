@@ -1,0 +1,6 @@
+playlist: https://www.youtube.com/playlist?list=PLKUvTphkugkaOvV-VJWSSeVdOg3y4nyOl
+
+commands to run:
+npm start
+node src/Demo1.bs.js
+
